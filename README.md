@@ -42,6 +42,7 @@ The project is structured as follows:
   mvn spring-boot:run
 
 6. The application will start on port 9090 (as configured in application.properties). You can access the API at http://localhost:9090/api/v1/students.
+end
 
 ## Authour
 This project was created by Abdelrahman Hewala. If you have any questions or need assistance, you can reach out to [eng.abdulrahman.shrief@gmail.com
