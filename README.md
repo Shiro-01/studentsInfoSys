@@ -38,8 +38,9 @@ The project is structured as follows:
    mvn clean install
 
 5. Run the Spring Boot application using your IDE or by running the following command:
-  ```bash
+   ```bash
   mvn spring-boot:run
+
 
 6. The application will start on port 9090 (as configured in application.properties). You can access the API at http://localhost:9090/api/v1/students.
 end
